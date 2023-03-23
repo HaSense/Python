@@ -86,12 +86,13 @@ email : snlkapil@gmail.com
 https://www.python.org/dev/peps/pep-0008   
 
  네이밍  
- ```shell
- # 예제 1-1 변수이름
+ ```python 예제 1-1 변수이름 {1}
  names = "Python" #변수이름
  job_title = "Software Engineer" # 밑줄로 구분한 변수 이름
  populated_countries_list = [] # 밑줄로 구분한 변수 이름
  ```
+ [Copy code](#1)
+ 
  코드 표현과 구문  
  코드 작성을 위한 파이써닉 방법의 수용  
 ### 독스트링 사용  
