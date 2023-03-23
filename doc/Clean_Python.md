@@ -85,9 +85,11 @@ email : snlkapil@gmail.com
 파이썬은 PEP8이라는 공식 문서를 갖고 있다. 이 문서는 코드 작성의 모범사례를 정의한다.   
 https://www.python.org/dev/peps/pep-0008   
 
- 네이밍  
+ 네이밍
+ 
+ ### 예제 1-1 변수이름 
+ 
  ```python {1}
- # 예제 1-1 변수이름 
  names = "Python" #변수이름
  job_title = "Software Engineer" # 밑줄로 구분한 변수 이름
  populated_countries_list = [] # 밑줄로 구분한 변수 이름
