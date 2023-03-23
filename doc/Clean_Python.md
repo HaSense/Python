@@ -86,7 +86,8 @@ email : snlkapil@gmail.com
 https://www.python.org/dev/peps/pep-0008   
 
  네이밍  
- ```python 예제 1-1 변수이름 {1}
+ ```python {1}
+ # 예제 1-1 변수이름 
  names = "Python" #변수이름
  job_title = "Software Engineer" # 밑줄로 구분한 변수 이름
  populated_countries_list = [] # 밑줄로 구분한 변수 이름
