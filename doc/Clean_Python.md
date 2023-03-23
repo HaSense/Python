@@ -6,6 +6,7 @@ email : snlkapil@gmail.com
 링크드인 : https://www.linkedin.com/in/snlkapil  
 깃허브 : https://github.com/skapil  
 
+```shell
 목차 
 1장 : 파이써닉으로 생각하기
 
@@ -71,7 +72,7 @@ email : snlkapil@gmail.com
  주피터 랩  
  파이참/VSCode/서브라임  
  Flaske8 / Pylint  
-
+```
    
       
    
