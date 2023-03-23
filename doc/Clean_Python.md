@@ -87,13 +87,19 @@ https://www.python.org/dev/peps/pep-0008
 
  네이밍
  
- #### 예제 1-1 변수이름 
+ ##### 예제 1-1 변수이름 
  ```python {1}
  names = "Python" #변수이름
  job_title = "Software Engineer" # 밑줄로 구분한 변수 이름
  populated_countries_list = [] # 밑줄로 구분한 변수 이름
  ```
  [Copy code](#1)
+ 
+ ##### 예제 1-2 논맹글링 이름
+ ```python {2}
+ _books = {} # private로 정의한 변수 이름
+ __dict = [] # 파이썬 내장 lib로 네임 맹글링(name mangling) 방지
+ ```
  
  코드 표현과 구문  
  코드 작성을 위한 파이써닉 방법의 수용  
