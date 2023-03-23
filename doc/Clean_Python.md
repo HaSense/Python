@@ -87,8 +87,7 @@ https://www.python.org/dev/peps/pep-0008
 
  네이밍
  
- ### 예제 1-1 변수이름 
- 
+ #### 예제 1-1 변수이름 
  ```python {1}
  names = "Python" #변수이름
  job_title = "Software Engineer" # 밑줄로 구분한 변수 이름
