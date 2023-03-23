@@ -120,25 +120,25 @@ email : snlkapil@gmail.com
  ### 이터레이터와 제너레이터의 활용  
  ### yield 키워드 활용  
 ## 7장 : 새로운 파이썬 기능 활용  
- 비동기 프로그래밍  
- 파이썬 타이핑  
- super() 메서드  
- 타입힌트  
- pathlib를 사용한 경로 처리 효율화  
- 함수 print()  
- f-string  
- 키워드 전용 인자  
- 딕셔너리 순서 유지  
- 이터레이터 해제  
+ ### 비동기 프로그래밍  
+ ### 파이썬 타이핑  
+ ### super() 메서드  
+ ### 타입힌트  
+ ### pathlib를 사용한 경로 처리 효율화  
+ ### 함수 print()  
+ ### f-string  
+ ### 키워드 전용 인자  
+ ### 딕셔너리 순서 유지  
+ ### 이터레이터 해제  
  
 ## 8장 : 파이썬 코드의 디버깅과 테스트  
- 디버깅  
- 테스팅  
+ ### 디버깅  
+ ### 테스팅  
 ## 9장 : 멋진 파이썬 도구  
- Sphinx  
- 커버러지  
- pre-commit  
- virtualenv를 위한 Pyenv  
- 주피터 랩  
- 파이참/VSCode/서브라임  
- Flaske8 / Pylint  
+ ### Sphinx  
+ ### 커버러지  
+ ### pre-commit  
+ ### virtualenv를 위한 Pyenv  
+ ### 주피터 랩  
+ ### 파이참/VSCode/서브라임  
+ ### Flaske8 / Pylint  
